@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Numbers
 ---------
 
@@ -309,3 +310,9 @@ Sources
 =======
 [Martyr2’s Mega Project List](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
 
+=======
+Projects
+========
+
+Includes useful script written in Python
+>>>>>>> 232d7275981375062388e2e8a377e7c31d794fbb
