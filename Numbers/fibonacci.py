@@ -9,7 +9,7 @@
 """
 
 def main():
-
+    
     # taking input n. (number of fibo series to produce) 
     n = int(input("Enter the Nth number : "))
 
