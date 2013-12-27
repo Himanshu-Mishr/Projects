@@ -7,15 +7,15 @@ Numbers
 
 **Find PI to the Nth Digit** - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
 
- ✔ **Fibonacci Sequence** - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
+✔**Fibonacci Sequence** - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.`filename:fibonacci.py`
 
 **Prime Factorization** - Have the user enter a number and find all Prime Factors (if there are any) and display them.
 
-✔**Next Prime Number** - Have the program find prime numbers until the user chooses to stop asking for the next one.ls
+✔**Next Prime Number** - Have the program find prime numbers until the user chooses to stop asking for the next one.ls`filename:next_prime_nubmer.py`
 
 **Find Cost of Tile to Cover W x H Floor** - Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
 
-**Mortgage Calculator** - Calculate the monthly payments of a fixed term mortgage over given Nth terms at a given interest rate. Also figure out how long it will take the user to pay back the loan.
+✔**Mortgage Calculator** - Calculate the monthly payments of a fixed term mortgage over given Nth terms at a given interest rate. Also figure out how long it will take the user to pay back the loan.`filename:mortgage_calculator.py`
 
 **Change Return Program** - The user enters a cost and then the amount of money given. The program will figure out the change and the number of quarters, dimes, nickels, pennies needed for the change.
 
@@ -35,7 +35,7 @@ Numbers
 
 **Dijkstra’s Algorithm** - Create a program that finds the shortest path through a graph using its edges.
 
-✔**Factorial Finder** - The Factorial of a positive integer, n, is defined as the product of the sequence n, n-1, n-2, ...1 and the factorial of zero, 0, is defined as being 1. Solve this using both loops and recursion.
+✔**Factorial Finder** - The Factorial of a positive integer, n, is defined as the product of the sequence n, n-1, n-2, ...1 and the factorial of zero, 0, is defined as being 1. Solve this using both loops and recursion.`filename:factorial_finder.py`
 
 **Complex Number Algebra** - Show addition, multiplication, negation, and inversion of complex numbers in separate functions. (Subtraction and division operations can be made with pairs of these operations.) Print the results for each operation tested.
 
