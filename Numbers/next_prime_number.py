@@ -25,8 +25,7 @@ def primeCheck(y):
         while x>1:
             if y%x == 0:
                 break
-            x -= 1
-        
+            x -= 1       
         else:
             print(" ⇒  Next Prime : ",y)
             
