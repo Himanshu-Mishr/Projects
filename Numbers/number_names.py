@@ -52,8 +52,7 @@ def number_names(astring):
     while astring:
         alist.append(astring[-3:])
         astring = astring[:-3]
-    t = ['', ' thousand ', ' million ', ' billion ', ' trillion ', ' zillion ',
-    ' cillion ']
+    t = ['', ' thousand ', ' million ', ' billion ', ' trillion ', ' zillion ']
     num_string = ""
     idx = 0
     for i in alist:
@@ -65,6 +64,3 @@ def number_names(astring):
     print(num, "=", num_string)
 if __name__ == '__main__':
     number_names(sys.argv[1])
-
-# Revision
-# 1> improve variable name
